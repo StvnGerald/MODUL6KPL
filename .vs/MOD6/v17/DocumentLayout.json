@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\steve\\OneDrive\\Documents\\File TP KPL\\MOD6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67083D2C-8710-4B31-B5CB-85EF3F7EB487}|MOD6\\MOD6.csproj|c:\\users\\steve\\onedrive\\documents\\file tp kpl\\mod6\\mod6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67083D2C-8710-4B31-B5CB-85EF3F7EB487}|MOD6\\MOD6.csproj|solutionrelative:mod6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\OneDrive\\Documents\\File TP KPL\\MOD6\\MOD6\\Program.cs",
+              "RelativeDocumentMoniker": "MOD6\\Program.cs",
+              "ToolTip": "C:\\Users\\steve\\OneDrive\\Documents\\File TP KPL\\MOD6\\MOD6\\Program.cs",
+              "RelativeToolTip": "MOD6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T23:46:08.286Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
