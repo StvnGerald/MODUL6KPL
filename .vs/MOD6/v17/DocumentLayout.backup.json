@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\steve\\OneDrive\\Documents\\File TP KPL\\MOD6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{67083D2C-8710-4B31-B5CB-85EF3F7EB487}|MOD6\\MOD6.csproj|c:\\users\\steve\\onedrive\\documents\\file tp kpl\\mod6\\mod6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67083D2C-8710-4B31-B5CB-85EF3F7EB487}|MOD6\\MOD6.csproj|solutionrelative:mod6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67083D2C-8710-4B31-B5CB-85EF3F7EB487}|MOD6\\MOD6.csproj|c:\\users\\steve\\onedrive\\documents\\file tp kpl\\mod6\\mod6\\sayatubeuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67083D2C-8710-4B31-B5CB-85EF3F7EB487}|MOD6\\MOD6.csproj|solutionrelative:mod6\\sayatubeuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67083D2C-8710-4B31-B5CB-85EF3F7EB487}|MOD6\\MOD6.csproj|c:\\users\\steve\\onedrive\\documents\\file tp kpl\\mod6\\mod6\\sayatubevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67083D2C-8710-4B31-B5CB-85EF3F7EB487}|MOD6\\MOD6.csproj|solutionrelative:mod6\\sayatubevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\steve\\OneDrive\\Documents\\File TP KPL\\MOD6\\MOD6\\Program.cs",
-              "RelativeDocumentMoniker": "MOD6\\Program.cs",
-              "ToolTip": "C:\\Users\\steve\\OneDrive\\Documents\\File TP KPL\\MOD6\\MOD6\\Program.cs",
-              "RelativeToolTip": "MOD6\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "SayaTubeVideo.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\OneDrive\\Documents\\File TP KPL\\MOD6\\MOD6\\SayaTubeVideo.cs",
+              "RelativeDocumentMoniker": "MOD6\\SayaTubeVideo.cs",
+              "ToolTip": "C:\\Users\\steve\\OneDrive\\Documents\\File TP KPL\\MOD6\\MOD6\\SayaTubeVideo.cs",
+              "RelativeToolTip": "MOD6\\SayaTubeVideo.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T23:46:08.286Z",
+              "WhenOpened": "2025-03-24T23:55:55.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SayaTubeUser.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\OneDrive\\Documents\\File TP KPL\\MOD6\\MOD6\\SayaTubeUser.cs",
+              "RelativeDocumentMoniker": "MOD6\\SayaTubeUser.cs",
+              "ToolTip": "C:\\Users\\steve\\OneDrive\\Documents\\File TP KPL\\MOD6\\MOD6\\SayaTubeUser.cs",
+              "RelativeToolTip": "MOD6\\SayaTubeUser.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAhwEsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T23:55:30.101Z",
               "EditorCaption": ""
             }
           ]
